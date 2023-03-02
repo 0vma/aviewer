@@ -1,0 +1,6 @@
+getgenv().xyz = {
+    w = true,
+    allowed = {
+      ["5FB4D65A-1AD4-404C-828C-2A7A97FB3E16"] = true,
+    };
+}
